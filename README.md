@@ -1,4 +1,13 @@
-### Hi there 👋
+<a href="mingyu6952@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-cd5c5c?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://mingyu6952.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-2f4f4f?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<a href="https://www.instagram.com/m_gyu_519/" target="_blank"><img src="https://img.shields.io/badge/Instagram-ff1493?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100007454625023/" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=Facebook&logoColor=white"/></a>
+
+#### Hi there 👋
+
+### 💪 Skills
+#### Platforms & Languages
+
 
 <!--
 **Mingyu-Potato/Mingyu-Potato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
