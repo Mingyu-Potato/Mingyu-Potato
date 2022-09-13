@@ -47,6 +47,8 @@ When my code is shown as a result, and when I learn new things along the way, it
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 </div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mingyu-Potato)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Mingyu-Potato/Mingyu-Potato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
