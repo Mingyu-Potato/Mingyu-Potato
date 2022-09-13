@@ -45,7 +45,7 @@ When my code is shown as a result, and when I learn new things along the way, it
   <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
-</div><br><br>
+</div>
 
 <!--
 **Mingyu-Potato/Mingyu-Potato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
