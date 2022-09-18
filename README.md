@@ -16,7 +16,7 @@ When my code is shown as a result, and when I learn new things along the way, it
 <div>I want to develop many cool things now and forever! 😆</div><br>
 
 ### 💪 Skills
-#### Platforms & Languages
+#### Frameworks & Libraries
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
