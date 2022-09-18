@@ -24,10 +24,16 @@ When my code is shown as a result, and when I learn new things along the way, it
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/>
 </div>
+
 <div>
-  <img src="https://img.shields.io/badge/Gan-000000?style=flat-square&logo=Gitee&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine Learning-000000?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep Learning-000000?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gan-000000?style=flat-square&logoColor=white"/>
+</div>
+
+<div>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-09202E?style=flat-square&logo=Flask&logoColor=white"/>
 </div>
 
 #### Tools
