@@ -9,7 +9,7 @@ I'm also interested in <b>computer vision</b>, and I sometimes develop the <b>ba
 </div><br>
 
 <div>
-My hobbies were soccer, traveling, and playing games, but now I have become a hobby of developing them while practicing at Institute. 🚀<br>
+My hobbies were soccer, traveling, and playing games, but now I have become a hobby of developing them while practicing. 🚀<br>
 When my code is shown as a result, and when I learn new things along the way, it makes me feel really good and confident. 😄
 </div><br>
 
