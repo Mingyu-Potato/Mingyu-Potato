@@ -9,7 +9,7 @@ I'm also interested in <b>ML/DL</b>, <b>computer vision</b>. 🔥
 </div><br>
 
 <div>
-My hobbies were soccer, traveling, and playing games, but now I have become a hobby of developing ML/DL models. 🚀<br>
+My hobbies were football, traveling, and playing games, but now I have become a hobby of developing ML/DL models. 🚀<br>
 When my project is shown as a result, and when I learn new things along the way, it makes me feel really good and confident. 😄
 </div><br>
 
